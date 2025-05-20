@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+remote_theme: pmarsceill/just-the-docs
+title: Rajesh Venkatesan
+nav_sort: true
+
